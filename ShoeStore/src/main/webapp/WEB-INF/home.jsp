@@ -9,6 +9,9 @@
 </head>
 <body>
 <h1>Welcome to the shoe store</h1>
+<a href="idForm.html">Lookup shoe by ID</a><br/>
+<a href="updateForm.html">Update shoe</a><br/>
+<a href="newShoe.html">Add a Shoe</a><br/>
 
 ${shoeInventory}
 </body>

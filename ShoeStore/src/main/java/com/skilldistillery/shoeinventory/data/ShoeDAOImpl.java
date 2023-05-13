@@ -20,6 +20,7 @@ public class ShoeDAOImpl implements ShoeDAO{
 	@Override
 	public Shoes findById(int shoeId) {
 		// TODO Auto-generated method stub
+		System.out.println("using id method");
 		return em.find(Shoes.class, shoeId);
 	}
 
