@@ -43,7 +43,7 @@ private Shoes shoes;
 	@Test
 	void test() {
 		assertNotNull(shoes);
-		assertEquals("jordan", shoes.getModel());
+		assertEquals("Jordan 1", shoes.getModel());
 	}
 
 }

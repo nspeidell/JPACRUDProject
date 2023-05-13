@@ -13,4 +13,5 @@ public interface ShoeDAO {
 	List<Shoes> findAll();
 	Shoes create(Shoes shoe);
 	boolean deleteById(int shoeId);
+	boolean updateShoe(int ShoeId, Shoes shoe);
 }
