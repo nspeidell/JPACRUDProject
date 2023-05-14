@@ -3,7 +3,7 @@
 ## Overview
 This full stack pplication alllowes a user to manage an inventory of shoes.  They are abe to add a shoe, delete a shoe, and update a shoe.  They can also view all the shoes in the collection.
 
-## Technoliges used
+## Technologies Used
 
 Gradle
 Spring boot
